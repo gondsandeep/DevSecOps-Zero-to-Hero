@@ -1,4 +1,4 @@
-1️⃣ SonarQube real-time scan output (CLI example)
+1️⃣ SonarQube real-time scan output (CLI example) 
 -------------------------------------------------
 ================================================================================
  SAST ENTERPRISE SECURITY ANALYZER v10.3.2
